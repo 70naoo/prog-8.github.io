@@ -1,4 +1,4 @@
-*
+*@charset "UTF-8";
 /* CSS Document */
 * {
 	box-sizing: border-box;
@@ -320,3 +320,5 @@ h2 {
 .massage-text {
 	letter-spacing: 0.1em;
 }
+
+
